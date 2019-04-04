@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tab-list-item {
+  display: inline-block;
+  list-style: none;
+  margin-bottom: -1px;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.tab-list-active-item {
+  background-color: white;
+  border: 1px solid #ccc;
+}

@@ -1,2 +1,0 @@
-# updatedTabComponent
-Created with CodeSandbox
